@@ -68,18 +68,3 @@ The dataset contains user information with 9 attributes for an eCommerce website
 
 ---
 
-## Key Concepts Exploted
-
-1. Recommendation engines, and why are they important?
-2. Random walk
-3. Deepwalk methodology
-4. Word2Vec, Node2Vec?
-5. Convert the graphs to embeddings
-6. Embeddings with Word2Vec and Node2Vec
-7. Save embeddings in Parquet format
-8. Analyze the results
-9. Visualize the results with the help of UMAP (Uniform Manifold Approximation and Projection)
-10. FAISS (Facebook AI Similarity Search)
-
----
-
